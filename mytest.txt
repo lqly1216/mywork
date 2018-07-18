@@ -4,3 +4,7 @@ LQ记事儿积分
 第一次下载仓库。。。。。
 
 哥哥哥哥哥哥过过过过过过过
+
+版本重置
+
+$ git reset --hard origin/master
